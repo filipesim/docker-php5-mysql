@@ -10,7 +10,7 @@ Este é um exemplo básico para criação **rápida** de um ambiente Docker.
 
 ## 🚀 Tecnologias e versões
 
- - PHP 5
+ - PHP 5.6
  - MySQL 5.7.16
 
 ---
@@ -34,7 +34,7 @@ Para que tudo funcione corretamente, você precisa ter instalado em sua máquina
   $ docker-compose up -d
 
 ```
-Após o processo de instalaçao finalizar, poderá acessar o servidor pela URL:
+Após o processo de instalação finalizar, poderá acessar o servidor pela URL:
 
 http://localhost:8888
 
